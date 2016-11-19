@@ -98,5 +98,17 @@
   }, {
     "name": "audio",
     "svg": "hardware/svg/production/ic_headset_48px.svg"
+  }, {
+    "name": "expand",
+    "svg": "image/svg/production/ic_panorama_wide_angle_48px.svg"
+  }, {
+    "name": "contract",
+    "svg": "image/svg/production/ic_panorama_horizontal_48px.svg"
+  }, {
+    "name": "theater",
+    "svg": "action/svg/production/ic_view_array_48px.svg"
+  }, {
+    "name": "normal",
+    "svg": "image/svg/production/ic_crop_16_9_48px.svg"
   }]
 }

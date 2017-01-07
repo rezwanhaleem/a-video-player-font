@@ -3,25 +3,31 @@
   "root-dir": "./node_modules/material-design-icons/",
   "icons": [{
     "name": "play",
-    "svg": "av/svg/production/ic_play_arrow_48px.svg"
+    "svg": "plyr-play.svg",
+    "root-dir": "./custom-icons/plyr-sprite/"
   }, {
     "name": "play-circle",
     "svg": "av/svg/production/ic_play_circle_outline_48px.svg"
   }, {
     "name": "pause",
-    "svg": "av/svg/production/ic_pause_48px.svg"
+    "svg": "plyr-pause.svg",
+    "root-dir": "./custom-icons/plyr-sprite/"
   }, {
     "name": "volume-mute",
-    "svg": "av/svg/production/ic_volume_off_48px.svg"
+    "svg": "plyr-muted.svg",
+    "root-dir": "./custom-icons/plyr-sprite/"
   }, {
     "name": "volume-low",
-    "svg": "av/svg/production/ic_volume_mute_48px.svg"
+    "svg": "plyr-volume-low.svg",
+    "root-dir": "./custom-icons/plyr-sprite/"
   }, {
     "name": "volume-mid",
-    "svg": "av/svg/production/ic_volume_down_48px.svg"
+    "svg": "plyr-volume-mid.svg",
+    "root-dir": "./custom-icons/plyr-sprite/"
   }, {
     "name": "volume-high",
-    "svg": "av/svg/production/ic_volume_up_48px.svg"
+    "svg": "plyr-volume-high.svg",
+    "root-dir": "./custom-icons/plyr-sprite/"
   }, {
     "name": "fullscreen-enter",
     "svg": "navigation/svg/production/ic_fullscreen_48px.svg"
@@ -66,7 +72,8 @@
     "svg": "navigation/svg/production/ic_cancel_48px.svg"
   }, {
     "name": "replay",
-    "svg": "av/svg/production/ic_replay_48px.svg"
+    "svg": "plyr-restart.svg",
+    "root-dir": "./custom-icons/plyr-sprite/"
   }, {
     "name": "facebook",
     "svg": "facebook.svg",
@@ -99,7 +106,7 @@
     "name": "audio",
     "svg": "hardware/svg/production/ic_headset_48px.svg"
   }, {
-    "name": "expand",
+    "name": "light-box",
     "svg": "image/svg/production/ic_panorama_wide_angle_48px.svg"
   }, {
     "name": "contract",
@@ -110,5 +117,47 @@
   }, {
     "name": "normal",
     "svg": "image/svg/production/ic_crop_16_9_48px.svg"
+  }, {
+    "name": "rewind",
+    "svg": "plyr-rewind.svg",
+    "root-dir": "./custom-icons/plyr-sprite/"
+  }, {
+    "name": "fast-forward",
+    "svg": "plyr-fast-forward.svg",
+    "root-dir": "./custom-icons/plyr-sprite/"
+  }, {
+    "name": "close",
+    "svg": "close.svg",
+    "root-dir": "./custom-icons/"
+  }, {
+    "name": "fast-forward-30",
+    "svg": "ic_forward_30_48px.svg",
+    "root-dir": "./custom-icons/google-material-design/"
+  }, {
+    "name": "fast-forward-10",
+    "svg": "ic_forward_10_48px.svg",
+    "root-dir": "./custom-icons/google-material-design/"
+  }, {
+    "name": "fast-forward-5",
+    "svg": "ic_forward_5_48px.svg",
+    "root-dir": "./custom-icons/google-material-design/"
+  }, {
+    "name": "rewind-30",
+    "svg": "ic_replay_30_48px.svg",
+    "root-dir": "./custom-icons/google-material-design/"
+  }, {
+    "name": "rewind-10",
+    "svg": "ic_replay_10_48px.svg",
+    "root-dir": "./custom-icons/google-material-design/"
+  }, {
+    "name": "rewind-5",
+    "svg": "ic_replay_5_48px.svg",
+    "root-dir": "./custom-icons/google-material-design/"
+  }, {
+    "name": "next-frame",
+    "svg": "image/svg/production/ic_exposure_plus_1_48px.svg"
+  }, {
+    "name": "previous-frame",
+    "svg": "image/svg/production/ic_exposure_neg_1_48px.svg"
   }]
 }
